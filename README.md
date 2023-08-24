@@ -7,13 +7,13 @@
 This app generates a logo based on CLI user input
 
 ## Table of Contents
- * [Usage](#Usage),
- * [Licenses](#Licenses),
- * [Contributions](#Contributions),
+ * [Usage](#Usage)
+ * [Licenses](#Licenses)
+ * [Contributions](#Contributions)
  * [Tests](#tests) 
 
 ## Visuals
-
+![Walkthrough Video](./SVG%20Logo%20Maker.gif)
 
 ## Usage
 NodeJS is required to use the app, as is a CLI terminal.
